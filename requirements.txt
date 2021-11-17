@@ -4,10 +4,10 @@ scipy
 pandas
 nltk
 regex
-networkx=
+networkx
 streamlit
 textblob==0.17.1
-
+pip
 contractions==0.0.18
 bs4
 sumy
