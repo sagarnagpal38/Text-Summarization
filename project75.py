@@ -3,6 +3,7 @@ import numpy as np
 import streamlit as st
 import string
 import nltk
+nltk.download('punkt')
 import spacy
 import pickle as p
 import requests   # Importing requests to extract content from a url
