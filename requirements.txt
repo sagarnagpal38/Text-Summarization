@@ -7,7 +7,7 @@ regex>=2.5.82
 networkx==2.3
 streamlit==1.2.0
 textblob==0.17.1
-nltk.download('punkt')
+
 contractions==0.0.18
 bs4
 sumy
