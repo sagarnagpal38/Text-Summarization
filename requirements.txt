@@ -1,11 +1,11 @@
-MarkupSafe==1.1.1
-numpy>=1.9.2
-scipy>=0.15.1
-pandas>=0.19
+MarkupSafe
+numpy
+scipy
+pandas
 nltk
-regex>=2.5.82
-networkx==2.3
-streamlit==1.2.0
+regex
+networkx=
+streamlit
 textblob==0.17.1
 
 contractions==0.0.18
