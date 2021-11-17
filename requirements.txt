@@ -1,0 +1,11 @@
+MarkupSafe==1.1.1
+numpy>=1.9.2
+scipy>=0.15.1
+pandas>=0.19
+nltk>=3.4.5
+regex>=2.5.82
+networkx==2.3
+streamlit==1.2.0
+textblob==0.17.1
+spacy==3.2.0
+contractions==0.0.18
