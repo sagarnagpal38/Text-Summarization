@@ -11,4 +11,4 @@ spacy==3.2.0
 contractions==0.0.18
 bs4
 sumy
-en_core_web_sm==3.2.0
+en
